@@ -1,3 +1,6 @@
+[![DepShield Badge](https://depshield.sonatype.org/badges/Mohan18/github-maven-example/depshield.svg)](https://depshield.github.io)
+
+
 This is an example project that uses the [GitHub Maven Plugins](https://github.com/github/maven-plugins).
 
 See the [POM file](https://github.com/kevinsawicki/github-maven-example/blob/master/example/pom.xml)
